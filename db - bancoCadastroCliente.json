@@ -1,0 +1,119 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "code": 1,
+      "shortName": "Si",
+      "name": "Simone Cristine Langer",
+      "country": "BRA",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "code": 2,
+      "shortName": "José",
+      "name": "José da Silva",
+      "country": "ESP",
+      "status": 3
+    },
+    {
+      "id": 3,
+      "code": 3,
+      "shortName": "Maria",
+      "name": "Maria de Jesus",
+      "country": "BRA",
+      "status": 3
+    },
+    {
+      "status": 1,
+      "code": 4,
+      "shortName": "teste",
+      "name": "test'",
+      "country": "ARG",
+      "id": 4
+    },
+    {
+      "status": 1,
+      "code": 11,
+      "shortName": "Claudia",
+      "name": "Claudia Carolina",
+      "country": "BRA",
+      "id": 11
+    }
+  ],
+  "country": [
+    {
+      "id": "BRA",
+      "code": "BRA",
+      "name": "Brasil"
+    },
+    {
+      "id": "ESP",
+      "code": "ESP",
+      "name": "Espanha"
+    },
+    {
+      "id": "ARG",
+      "code": "ARG",
+      "name": "Argentina"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "codeCustomer": 1,
+      "code": 1,
+      "name": "Simone",
+      "fone": "66666666"
+    },
+    {
+      "code": 3,
+      "codeCustomer": 3,
+      "name": "Dona Maria xxx",
+      "fone": "888888888",
+      "id": 3
+    },
+    {
+      "code": "7",
+      "name": "teste simone",
+      "fone": "99999999",
+      "codeCustomer": 2,
+      "id": 5
+    },
+    {
+      "code": "9",
+      "name": "ROnaldo",
+      "fone": "98463-9106",
+      "codeCustomer": 1,
+      "id": 6
+    },
+    {
+      "code": "8",
+      "name": "TESTE 2",
+      "fone": "9999999999",
+      "codeCustomer": 2,
+      "id": 7
+    },
+    {
+      "code": 1,
+      "name": "Claudia",
+      "fone": "984639107",
+      "codeCustomer": 11,
+      "id": 8
+    },
+    {
+      "code": 2,
+      "name": "Claudia 2",
+      "fone": "88997788",
+      "codeCustomer": 11,
+      "id": 9
+    },
+    {
+      "code": 44,
+      "name": "teste",
+      "fone": "999000999",
+      "codeCustomer": 4,
+      "id": 10
+    }
+  ]
+}

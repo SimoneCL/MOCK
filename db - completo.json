@@ -1,0 +1,76 @@
+{
+  "customer": [
+    {
+      "id": "087;1",
+      "company": "087",
+      "code": 1,
+      "shortName": "João",
+      "name": "João da Silva",
+      "country": "BRA",
+      "status": 1
+    },
+    {
+      "id": "087;2",
+      "company": "087",
+      "code": 2,
+      "shortName": "Maria",
+      "name": "Maria Barbosa",
+      "country": "BRA",
+      "status": 1
+    },
+    {
+      "id": "087;3",
+      "company": "087",
+      "code": 3,
+      "shortName": "Adonias",
+      "name": "Adonias Oliveira",
+      "country": "USA",
+      "status": 2
+    },
+    {
+      "id": "087;4",
+      "company": "087",
+      "code": 4,
+      "shortName": "Chinfronésio",
+      "name": "Chinfronésio Pereira Filho",
+      "country": "BRA",
+      "status": 1
+    },
+    {
+      "id": "087;5",
+      "company": "087",
+      "code": 5,
+      "shortName": "Intrometido",
+      "name": "Intrometido que Veio de Fora",
+      "customerIdentif": "6 - Intrometido",
+      "country": "ARG",
+      "status": 2
+    },    
+    {
+      "id": "087;6",
+      "company": "087",
+      "code": 6,
+      "shortName": "Penetra",
+      "name": "Penetra de Festa",
+      "country": "ARG",
+      "status": 1
+    }
+  ],
+  "country": [
+    {
+      "id": "BRA",
+      "code": "BRA",
+      "name": "Brasil"
+    },
+    {
+      "id": "USA",
+      "code": "USA",
+      "name": "Estados Unidos"
+    },
+    {
+      "id": "ARG",
+      "code": "ARG",
+      "name": "Argentina"
+    }
+  ]
+}
