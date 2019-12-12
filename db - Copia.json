@@ -122,21 +122,21 @@
       "codeCustomer": 1,
       "numOrder": 1,
       "date": "2019-12-10",
-      "value": 480,
+      "value": "480",
       "status": 1,
       "orderLines": [
        {
           "seq": 1,
           "item": "chocolate",
-          "quantity": 10,
-          "valueTotItem": 32.50
+          "quantity": "10",
+          "valueTotItem": "32.50"
           
         }, 
         {
           "seq": 2,
           "item": "bala",
-          "quantity": 10,
-          "valueTotItem": 15.50
+          "quantity": "10",
+          "valueTotItem": "15.50"
           
         }      
       ]
@@ -146,42 +146,47 @@
       "codeCustomer": 1,
       "numOrder": 2,
       "date": "2019-12-07",
-      "value": 467.50,
+      "value": "467.50",
       "status": 2,
-      "orderLines": [
-         {
-          "seq": 1,
-          "item": "item teste",
-          "quantity": 10,
-          "valueTotItem": 44.50
-        }, 
-        {
-          "seq": 2,
-          "item": "item 2",
-          "quantity": 15,
-          "valueTotItem": 1.50
-         }]
-  },
-  {
-      "id": 2,
-      "codeCustomer": 2,
-      "numOrder": 1,
-      "date": "2019-12-01",
-      "value": 228.50,
-      "status": 1,
       "orderLines": [
        {
           "seq": 1,
           "item": "item teste",
-          "quantity": 5,
-          "valueTotItem": 44.50
+          "quantity": "10",
+          "valueTotItem": "44.50"
           
         }, 
         {
           "seq": 2,
           "item": "item 2",
-          "quantity": 4,
-          "valueTotItem": 1.50
+          "quantity": "15",
+          "valueTotItem": "1.50"
+          
+        }      
+      ]
+  }
+  
+  ,
+  {
+      "id": 2,
+      "codeCustomer": 2,
+      "numOrder": 1,
+      "date": "2019-12-01",
+      "value": "228.50",
+      "status": 1,
+      "orderLines": [
+       {
+          "seq": 1,
+          "item": "item teste",
+          "quantity": "5",
+          "valueTotItem": "44.50"
+          
+        }, 
+        {
+          "seq": 2,
+          "item": "item 2",
+          "quantity": "4",
+          "valueTotItem": "1.50"
           
         }      
       ]
